@@ -14,7 +14,7 @@ tags:
 
 #### Install chromedriver.exe:
 * Windows:<br>
-  > Download project files and then go to this website: <a href="https://chromedriver.chromium.org/downloads">https://chromedriver.chromium.org/downloads</a> <br>
+  > Download project files and then go to this website: <a href="https://chromedriver.chromium.org/downloads" target="_blank">https://chromedriver.chromium.org/downloads</a> <br>
 
 * Ubuntu and Parrot OS:<br>
 
