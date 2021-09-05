@@ -1,9 +1,9 @@
 ---
-title: Sample Post
+title: Scraping Instagram
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+post-image: "https://i.imgur.com/PW98iOt.png"
+description: This project explains how a user's Instagram
+posts can be extracted.
 tags:
 - sample
 - post
