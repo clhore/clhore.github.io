@@ -8,7 +8,7 @@ tags:
 - selenium
 ---
 
-* [Repositori](https://github.com/clhore/scraping-instagram)
+* [REPOSITORY](https://github.com/clhore/scraping-instagram)
 ---
 
 # This is the h1 text
