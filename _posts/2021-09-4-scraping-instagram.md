@@ -6,6 +6,7 @@ description: This project explains how a user's Instagram posts can be extracted
 tags:
 - python
 - selenium
+---
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
