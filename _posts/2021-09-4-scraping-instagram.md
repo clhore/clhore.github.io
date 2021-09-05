@@ -15,9 +15,8 @@ tags:
 #### Install chromedriver.exe:
 * Windows:<br>
   > Download project files and then go to this website: <a href="https://chromedriver.chromium.org/downloads" target="_blank">https://chromedriver.chromium.org/downloads</a><br>
-  > Download the version that is closest to your version of google-chrome.<br><br>
-  > 
-  > [*] If you don't know the version of your google-chrome follow these photos:<br>
+  > Download the version that is closest to your **version** of **google-chrome.**<br>
+  > **[#] If you don't know the version of your google-chrome follow these photos:**<br>
   
 ![](https://i.imgur.com/xnYl8UR.png)
 ![](https://i.imgur.com/5YUxc6S.png)
