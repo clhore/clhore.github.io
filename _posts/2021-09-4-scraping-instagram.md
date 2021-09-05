@@ -15,8 +15,7 @@ tags:
 #### Install chromedriver.exe:
 * Windows:<br>
   > Download project files and then go to this website: <a href="https://chromedriver.chromium.org/downloads" target="_blank">https://chromedriver.chromium.org/downloads</a> <br>
-  <video>
-  <source src="https://github.com/clhore/video/blob/main/2021-09-05%2023-15-27.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'/></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Ubuntu and Parrot OS:<br>
 
