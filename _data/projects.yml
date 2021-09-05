@@ -1,4 +1,4 @@
-- name: Scraping instagram
+- name: Scraping Instagram
   image: https://i.imgur.com/PW98iOt.png
   link: /project/scraping-instagram
   description: This project explains how a user's Instagram posts can be extracted.
