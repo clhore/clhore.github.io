@@ -11,12 +11,13 @@ tags:
 * [REPOSITORY](https://github.com/clhore/scraping-instagram)
 ---
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+
+#### Install chromedriver.exe:
+* Windows:
+  > Download project files and then go to this website: https://chromedriver.chromium.org/downloads
+
+* Ubuntu and Parrot OS:
+
 
 **Bold Text in the post will look like:**<br>
 **This text is Bold**
